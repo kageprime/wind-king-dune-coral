@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Veilspire",
+      "hasCanvas": true,
+      "bodyTextLen": 272,
+      "bodyTextHash": "b37e778c91db675e69b18508457ef6fa0ce7ca0d157edc13d4f2c81c52ae99be",
+      "bodyTextPrefix": "A LEDGER RECORD Veilspire Unranked. Unforgiven. Climb. A run-bas",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Veilspire",
+      "hasCanvas": true,
+      "bodyTextLen": 272,
+      "bodyTextHash": "b37e778c91db675e69b18508457ef6fa0ce7ca0d157edc13d4f2c81c52ae99be",
+      "bodyTextPrefix": "A LEDGER RECORD Veilspire Unranked. Unforgiven. Climb. A run-bas",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
